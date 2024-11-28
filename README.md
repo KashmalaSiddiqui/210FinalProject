@@ -1,2 +1,3 @@
 # 210FinalProject
 #The goal of this project would be to create a model that recommends the best times to post and which types of content are most likely to generate high engagement based on audience behavior patterns.
+#The dataset for this project consists of my Instagram data, including post details (such as post type, caption, hashtags, and post time), follower, and engagement metrics (likes, comments, shares, and saves), also my engagement like my comments, likes and views. Additionally, we will incorporate story data, including views and interactions, to further refine the recommendations.
